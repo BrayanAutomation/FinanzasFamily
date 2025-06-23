@@ -1,0 +1,111 @@
+Listado de rutas de carpetas para el volumen OS
+El número de serie del volumen es 9A79-385C
+C:.
+¦   .gitattributes
+¦   .gitignore
+¦   build.gradle
+¦   estructura.txt
+¦   gradlew
+¦   gradlew.bat
+¦   HELP.md
+¦   settings.gradle
+¦   
++---.gradle
+¦   ¦   file-system.probe
+¦   ¦   
+¦   +---8.14.2
+¦   ¦   ¦   gc.properties
+¦   ¦   ¦   
+¦   ¦   +---checksums
+¦   ¦   ¦       checksums.lock
+¦   ¦   ¦       md5-checksums.bin
+¦   ¦   ¦       sha1-checksums.bin
+¦   ¦   ¦       
+¦   ¦   +---executionHistory
+¦   ¦   ¦       executionHistory.bin
+¦   ¦   ¦       executionHistory.lock
+¦   ¦   ¦       
+¦   ¦   +---expanded
+¦   ¦   +---fileChanges
+¦   ¦   ¦       last-build.bin
+¦   ¦   ¦       
+¦   ¦   +---fileHashes
+¦   ¦   ¦       fileHashes.bin
+¦   ¦   ¦       fileHashes.lock
+¦   ¦   ¦       resourceHashesCache.bin
+¦   ¦   ¦       
+¦   ¦   +---vcsMetadata
+¦   +---buildOutputCleanup
+¦   ¦       buildOutputCleanup.lock
+¦   ¦       cache.properties
+¦   ¦       outputFiles.bin
+¦   ¦       
+¦   +---vcs-1
+¦           gc.properties
+¦           
++---.idea
+¦       .gitignore
+¦       compiler.xml
+¦       gradle.xml
+¦       jarRepositories.xml
+¦       misc.xml
+¦       workspace.xml
+¦       
++---build
+¦   ¦   resolvedMainClassName
+¦   ¦   
+¦   +---classes
+¦   ¦   +---java
+¦   ¦       +---main
+¦   ¦           +---com
+¦   ¦               +---co
+¦   ¦                   +---FinanzasFamily
+¦   ¦                           FinanzasFamilyApplication.class
+¦   ¦                           
+¦   +---generated
+¦   ¦   +---sources
+¦   ¦       +---annotationProcessor
+¦   ¦       ¦   +---java
+¦   ¦       ¦       +---main
+¦   ¦       +---headers
+¦   ¦           +---java
+¦   ¦               +---main
+¦   +---reports
+¦   ¦   +---problems
+¦   ¦           problems-report.html
+¦   ¦           
+¦   +---resources
+¦   ¦   +---main
+¦   ¦       ¦   application.properties
+¦   ¦       ¦   
+¦   ¦       +---static
+¦   ¦       +---templates
+¦   +---tmp
+¦       +---compileJava
+¦               previous-compilation-data.bin
+¦               
++---gradle
+¦   +---wrapper
+¦           gradle-wrapper.jar
+¦           gradle-wrapper.properties
+¦           
++---src
+    +---main
+    ¦   +---java
+    ¦   ¦   +---com
+    ¦   ¦       +---co
+    ¦   ¦           +---FinanzasFamily
+    ¦   ¦                   FinanzasFamilyApplication.java
+    ¦   ¦                   
+    ¦   +---resources
+    ¦       ¦   application.properties
+    ¦       ¦   
+    ¦       +---static
+    ¦       +---templates
+    +---test
+        +---java
+            +---com
+                +---co
+                    +---FinanzasFamily
+                            FinanzasFamilyApplicationTests.java
+                            
