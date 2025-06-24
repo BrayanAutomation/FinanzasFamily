@@ -1,0 +1,10 @@
+# Evita que Docker lea archivos innecesarios
+build
+.gradle
+out
+.idea
+.vscode
+*.iml
+*.log
+node_modules
+**/__pycache__/
