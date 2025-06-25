@@ -10,7 +10,7 @@ import java.util.List;
 @RequestMapping("/api/gastos-mensuales")
 @CrossOrigin(origins = {
         "http://localhost:5173",
-        "finanzas-family-front.vercel.app"
+        "https://finanzas-family-front.vercel.app"
 })
 public class GastoMensualController {
 

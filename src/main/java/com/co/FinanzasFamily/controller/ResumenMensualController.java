@@ -11,7 +11,7 @@ import java.util.Optional;
 @RequestMapping("/api/resumen-mensual")
 @CrossOrigin(origins = {
         "http://localhost:5173",
-        "finanzas-family-front.vercel.app"
+        "https://finanzas-family-front.vercel.app"
 })
 public class ResumenMensualController {
 
