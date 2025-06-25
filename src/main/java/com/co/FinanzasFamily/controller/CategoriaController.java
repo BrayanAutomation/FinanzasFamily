@@ -10,7 +10,7 @@ import java.util.List;
 @RequestMapping("/api/categorias")
 @CrossOrigin(origins = {
         "http://localhost:5173",
-        "http://192.168.1.1:5173"
+        "finanzas-family-front.vercel.app"
 }) // para permitir acceso desde el frontend React
 public class CategoriaController {
 

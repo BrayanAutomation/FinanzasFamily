@@ -10,7 +10,7 @@ import java.util.List;
 @RequestMapping("/api/transacciones")
 @CrossOrigin(origins = {
         "http://localhost:5173",
-        "http://192.168.1.1:5173"
+        "finanzas-family-front.vercel.app"
 })
 public class TransaccionController {
 
